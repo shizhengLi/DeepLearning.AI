@@ -1,5 +1,7 @@
 # Knowledge Graphs for RAG
 
+
+
 本文是学习[https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/](https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/)这门课的学习笔记。
 
 ![image-20240724102609087](./assets/image-20240724102609087.png)
