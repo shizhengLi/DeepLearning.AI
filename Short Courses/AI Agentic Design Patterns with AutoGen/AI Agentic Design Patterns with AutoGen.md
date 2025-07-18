@@ -61,7 +61,7 @@ requirements.txt
 # in this file, insert all the pip install needs, include revision
 
 # python==3.10.13
-pyautogen==0.2.25
+ag2==0.2.25
 chess==1.10.0
 matplotlib
 numpy
